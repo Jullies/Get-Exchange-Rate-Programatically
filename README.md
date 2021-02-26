@@ -1,5 +1,5 @@
 # Get-Exchange-Rate-Programatically
-Gives currencies upto the previous day. For instance am using <br/>
+Gives currencies upto the previous day <br/>
 
 # Installing using pip
 pip install curr-exchange==1.0.0<br/>
