@@ -2,12 +2,12 @@
 Gives currencies upto the previous day <br/>
 
 # Installing using pip
-pip install currency_exchange==1.0.0<br/>
+pip install curr_get_exchange==1.0.0<br/>
 
 
 # Using it in your Python Code
 
-from currency_exchange import get_exchange<br/>
+from curr_get_exchange import get_exchange<br/>
 
 ''' METHOD 1 '''<br/>
 history_check = get_exchange.beginCheck(from_date="2021-01-01", to_date=False, from_currency='EUR', to_currency='KES')<br/>
