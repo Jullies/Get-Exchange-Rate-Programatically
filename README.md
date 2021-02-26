@@ -59,11 +59,11 @@ f = {'eur': 5, 'kes': 6, "usd": 7}
 print("\nDictionary %s returns keys to list: %s"%(f, check.keysToList(f)))
 
 >>Output
-2020-01-01  |  2020-01-01  |  2020-01-01 \n
-retrun date in system formart:  2021-02-01 00:00:00 \n
-return date string in human formart:  01-02-2021 \n
-return date (string) in system formart:  2021-02-01 \n
-Dictionary {'eur': 5, 'kes': 6, 'usd': 7} returns keys to list: ['eur', 'kes', 'usd'] \n
+2020-01-01  |  2020-01-01  |  2020-01-01 <br/>
+retrun date in system formart:  2021-02-01 00:00:00 <br/>
+return date string in human formart:  01-02-2021 <br/>
+return date (string) in system formart:  2021-02-01 <br/>
+Dictionary {'eur': 5, 'kes': 6, 'usd': 7} returns keys to list: ['eur', 'kes', 'usd'] <br/>
 
 
 
